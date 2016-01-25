@@ -1,0 +1,23 @@
+{
+  "name": "helsingor-metadatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runetvilum/helsingor-metadatabase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runetvilum/helsingor-metadatabase/issues"
+  },
+  "homepage": "https://github.com/runetvilum/helsingor-metadatabase#readme",
+  "dependencies": {
+    "nano": "^6.2.0",
+    "xlsx": "^0.8.0"
+  }
+}
